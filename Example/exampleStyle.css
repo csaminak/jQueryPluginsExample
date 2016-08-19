@@ -1,0 +1,19 @@
+.twentytwenty-container {
+    margin: 0 25% 10%;
+    width: 50%;
+    border: 10px solid  #6a1127;
+    background-color: #6a1127;
+}
+
+h1, h2, h3, h4 {
+    text-align: center;
+}
+
+h1 {
+    margin: 0.5em;
+    color: #6a1127;
+    font-size: 3em;
+}
+h3 {
+    font-style: italic;
+}
